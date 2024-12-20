@@ -1,0 +1,11 @@
+{
+  "companyName": "GEMEL",
+  "employees": [
+    {
+      "id": 3,
+      "name": "gemelpineda",
+      "position": "Manager",
+      "location": "Purok 2A Central Ilang Davao City"
+    }
+  ]
+}
